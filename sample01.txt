@@ -1,2 +1,3 @@
 Hello world!
 new1
+new2
